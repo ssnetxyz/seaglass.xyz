@@ -2,10 +2,10 @@
 home: true
 ---
 
-<div class="banner">
+<div class="banner"><div class="container">
 シーグラス・ビーチグラス販売専門店のSSネット。<br>
 当店のシーグラスは奄美大島で採取された天然の宝もの。
-</div>
+</div></div>
 
 ➣➣➣ featured
 <!-- アイコン：order, 注文! -->
@@ -20,6 +20,6 @@ home: true
 <!-- アイコン：ssnet, SSネット -->
 ➣➣➣
 
-<div class="extra">
+<div class="extra"><div class="container">
 。。。
-</div>
+</div></div>
