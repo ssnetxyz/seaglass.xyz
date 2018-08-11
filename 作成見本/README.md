@@ -2,7 +2,7 @@
 
 <div class="columns">
   <div class="column">
-     ![これはオリジナルフレームキットの１こです！](../画像/DSCN1383.JPG "これはオリジナルフレームキットの１こです！")
+    ![これはオリジナルフレームキットの１こです！](/画像/DSCN1383.JPG)
   <div>
   <div class="column">  
     作り方はとても簡単
