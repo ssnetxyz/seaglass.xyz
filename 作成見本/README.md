@@ -2,7 +2,7 @@
 [test](https://google.jp)
 <div class="columns">
   <div class="column">
-    [test](https://google.jp)
+[test](https://google.jp)
     ![これはオリジナルフレームキットの１こです！](/画像/DSCN1383.JPG)
   <div>
   <div class="column">  
