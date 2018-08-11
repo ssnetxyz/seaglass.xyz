@@ -8,13 +8,16 @@
    
 ![これはオリジナルフレームキットの１こです！](./sakuseimihon-1.jpg)
 
-</div><div class="column">  
+</div><div class="column">
+
 ![これはオリジナルフレームキットの１こです！](./sakuseimihon-2.jpg)
 
-</div><div class="column">  
+</div><div class="column">
+
 ![これはオリジナルフレームキットの１こです！](./sakuseimihon-3.jpg)
 
-</div><div class="column">  
+</div><div class="column">
+
 ![これはオリジナルフレームキットの１こです！](./sakuseimihon-4.jpg)
 
 </div></div>
