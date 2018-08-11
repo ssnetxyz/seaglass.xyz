@@ -21,14 +21,16 @@ home: true
 ➣➣➣
 
 <div class="extra"><div class="container">
+  
 
 【お問合せ先】
-  〒894-0001
+　〒894-0001
   鹿児島県奄美市名瀬大熊728番地
   SSネット株式会社
   シーグラス・ビーチグラス専門店
   ☎　0997-69-3731
   　　080-8843-2138
   📧ssnet.XYZ@gmail.com
+
 
 </div></div>
