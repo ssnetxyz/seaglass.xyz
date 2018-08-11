@@ -1,3 +1,7 @@
+---
+pageClass: has-image-blocks
+---
+
 # 作成見本
 作り方はとても簡単
 フォットフレームに
