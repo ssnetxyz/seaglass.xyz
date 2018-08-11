@@ -5,7 +5,6 @@ home: true
 <div class="banner"><div class="container"><div class="columns"><div class="column is-3">
    
 ![これはオリジナルフレームキットの１こです！](./sakuseimihon-1.jpg)
-オリジナルフレームキット
 
 </div><div class="column">
 シーグラス・ビーチグラス販売専門店のSSネット。<br>
