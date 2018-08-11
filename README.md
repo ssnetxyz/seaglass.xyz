@@ -21,5 +21,5 @@ home: true
 ➣➣➣
 
 <div class="extra">
-こんにち
+ハロー！
 </div>
