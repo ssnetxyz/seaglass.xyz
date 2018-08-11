@@ -1,7 +1,7 @@
 # 作成見本
 <div class="columns"><div class="column">
    
-![これはオリジナルフレームキットの１こです！](../画像/DSCN1383.jpg)
+![これはオリジナルフレームキットの１こです！](./DSCN1383.jpg)
 <div><div class="column">  
   
     作り方はとても簡単
