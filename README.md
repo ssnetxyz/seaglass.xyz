@@ -21,5 +21,5 @@ home: true
 ➣➣➣
 
 <div class="extra">
-こんにちは
+こんにちは!!!
 </div>
