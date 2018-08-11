@@ -20,3 +20,6 @@ home: true
 <!-- アイコン：ssnet, SSネット -->
 ➣➣➣
 
+<div class="extra">
+Hello!
+</div>
