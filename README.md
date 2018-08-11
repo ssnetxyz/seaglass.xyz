@@ -2,9 +2,15 @@
 home: true
 ---
 
-<div class="banner"><div class="container">
+<div class="banner"><div class="container"><div class="columns"><div class="column">
+   
+![これはオリジナルフレームキットの１こです！](./sakuseimihon-1.jpg)
+オリジナルフレームキット
+
+</div><div class="column">
 シーグラス・ビーチグラス販売専門店のSSネット。<br>
 当店のシーグラスは奄美大島で採取された天然の宝もの。
+</div></div>
 </div></div>
 
 ➣➣➣ featured
