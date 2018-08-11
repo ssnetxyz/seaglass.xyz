@@ -22,9 +22,10 @@ home: true
 
 ➣➣➣
 
-# test
 
-【お問合せ先】
+<div class="extra"><div class="container">
+
+# 【お問合せ先】
 
 〒894-0001
 
@@ -40,3 +41,4 @@ home: true
     
   📧ssnet.XYZ@gmail.com
 
+</div></div>
