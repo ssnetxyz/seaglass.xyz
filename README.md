@@ -1,5 +1,6 @@
 ---
 home: true
+pageClasses: top
 ---
 
 <div class="banner"><div class="container"><div class="columns"><div class="column is-3">
