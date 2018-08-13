@@ -15,5 +15,11 @@ lang: ja
 　　　ＳＳネット株式会社　シーグラス販売専門店
   
   
-<span class="icon">☎</span>　0997-69-3731<br>
-<span class="icon">📧</span>　ssnet.xyz@gmail.com
+<a href="tel:0997-69-3731" class="button">
+  <span class="icon">☎</span>
+  <span>0997-69-3731</span>
+</a><br>
+<a href="mailto:ssnet.xyz@gmail.com" class="button">
+  <span class="icon">📧</span>
+  <span>ssnet.xyz@gmail.com</span>
+</a>
