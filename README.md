@@ -3,7 +3,8 @@ home: true
 title: シーグラスラス販売専門店SSネット株式会社
 description: 鹿児島県奄美大島の綺麗海岸で採取した、天然のシーグラスや貝殻で、世界にひとつだけのオリジナルフォットフレームを作成して間ませんか？シーグラスも沢山、販売しています。
 lang: ja
-pageClasses: top
+pageClass: top
+
 ---
 
 <div class="banner"><div class="container"><div class="columns"><div class="column is-3">
