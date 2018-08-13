@@ -1,4 +1,7 @@
 ---
+title: オリジナルフレームキット
+description: オリジナルフレームキット
+lang: ja
 pageClass: has-image-blocks
 ---
 
