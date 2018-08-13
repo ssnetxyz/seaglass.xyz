@@ -15,5 +15,5 @@ lang: ja
 　　　ＳＳネット株式会社　シーグラス販売専門店
   
   
-☎　0997-69-3731<br>
-📧　ssnet.xyz@gmail.com
+<span class="icon">☎</span>　0997-69-3731<br>
+<span class="icon">📧</span>　ssnet.xyz@gmail.com
