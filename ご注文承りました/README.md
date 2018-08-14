@@ -5,7 +5,7 @@ lang: ja
 pageClass: successful-payment
 
 ---
-<div class="notification">
+<div class="notification is-primary">
   <div class="title is-light">ご注文有難うございました！</div>
 
 確認メールが届きますので、ご確認をお願いいたします。
