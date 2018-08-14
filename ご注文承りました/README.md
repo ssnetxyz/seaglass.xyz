@@ -2,30 +2,12 @@
 title: ご注文有難うございました！
 description: シーグラスのご注文有難うございました！
 lang: ja
+layout: order-success
 pageClass: successful-payment
 
 ---
-<div class="notification is-primary">
-  <div class="title is-light">ご注文有難うございました！</div>
+
+<div class="title is-light">ご注文有難うございました！</div>
 
 確認メールが届きますので、ご確認をお願いいたします。
 メールが届かない場合は、お問合せ下さい。
-
-</div>
-
-### 【お問合せ先】
-
-<div class="button">
-  <span class="icon">🏢</span>
-  <span>：〒894-0001鹿児島県奄美市名瀬大熊728番地<br>　ＳＳネット株式会社　シーグラス販売専門店</span>
-</div><br>
-
-<a href="tel:0997-69-3731" class="button">
-  <span class="icon">☎</span>
-  <span>：0997-69-3731</span>
-</a><br>
-
-<a href="mailto:ssnet.xyz@gmail.com" class="button">
-  <span class="icon">📧</span>
-  <span>：ssnet.xyz@gmail.com</span>
-</a>
