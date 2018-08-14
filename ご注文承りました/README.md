@@ -5,11 +5,13 @@ lang: ja
 pageClass: successful-payment
 
 ---
-
-# ご注文有難うございました！
+<div class="notification">
+  <div class="title is-light">ご注文有難うございました！</div>
 
 確認メールが届きますので、ご確認をお願いいたします。
 メールが届かない場合は、お問合せ下さい。
+
+</div>
 
 ### 【お問合せ先】
 
