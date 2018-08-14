@@ -3,6 +3,7 @@ title: ご注文有難うございました！
 description: シーグラスのご注文有難うございました！
 lang: ja
 pageClass: successful-payment
+
 ---
 
 # ご注文有難うございました！
