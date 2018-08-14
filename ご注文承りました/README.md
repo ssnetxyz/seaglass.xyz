@@ -2,6 +2,7 @@
 title: ご注文有難うございました！
 description: シーグラスのご注文有難うございました！
 lang: ja
+pageClass: successful-payment
 ---
 
 # ご注文有難うございました！
@@ -12,15 +13,9 @@ lang: ja
 ### 【お問合せ先】
 
 <div class="button">
-<span class="icon">🏢</span>
-<span>：〒894-0001鹿児島県奄美市名瀬大熊728番地</span>
-</div>
-
-<div class="button">
-<span class="icon"></span>
-<span>　ＳＳネット株式会社　シーグラス販売専門店</span>
+  <span class="icon">🏢</span>
+  <span>：〒894-0001鹿児島県奄美市名瀬大熊728番地<br>　ＳＳネット株式会社　シーグラス販売専門店</span>
 </div><br>
-
 
 <a href="tel:0997-69-3731" class="button">
   <span class="icon">☎</span>
