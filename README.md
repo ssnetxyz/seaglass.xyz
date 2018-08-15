@@ -7,11 +7,7 @@ pageClass: top
 
 ---
 
-<div class="banner"><div class="container"><div class="columns"><div class="column is-3">
-   
-![これはオリジナルフレームキットの１個です！](./sakuseimihon-1.jpg)
-
-</div><div class="column">
+<div class="banner"><div class="container"><div class="columns"><div class="column">
 シーグラス貝殻販売専門店SSネット株式会社<br>
 当店のシーグラス・貝殻は奄美大島で採取された天然の宝もの。
 </div></div>
@@ -40,14 +36,14 @@ pageClass: top
 〒894-0001
 
   鹿児島県奄美市名瀬大熊728番地
-  
+
   シーグラス貝殻販売専門店SSネット株式会社
-  
-   
+
+
   ☎　0997-69-3731
-  
+
   　　080-8843-2138
-    
+
   📧ssnet.XYZ@gmail.com
 
 </div></div>
