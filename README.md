@@ -7,12 +7,9 @@ pageClass: top
 
 ---
 
-<div class="banner"><div class="container"><div class="columns"><div class="column">
-
-当店のシーグラス・貝殻は奄美大島で採取された天然の宝もの。
-
+<div class="banner"><div class="container">
+当店のシーグラス・貝殻は奄美大島で採取された天然の宝もの。<br>
 ただ今！送料無料キャンペーン中！
-</div></div>
 </div></div>
 
 ➣➣➣ featured
