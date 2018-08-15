@@ -4,4 +4,3 @@ description: 1個からの注文も受け付けています。２個セットよ
 lang: ja
 layout: order
 ---
-
