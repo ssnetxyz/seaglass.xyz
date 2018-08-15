@@ -44,6 +44,6 @@ pageClass: top
 
   　　080-8843-2138
 
-  📧ssnet.XYZ@gmail.com
+  📧　[ssnet.xyz@gmail.com](mailto:ssnet.xyz@gmail.com)
 
 </div></div>
