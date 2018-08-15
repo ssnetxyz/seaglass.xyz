@@ -15,7 +15,7 @@ pageClass: top
 
 ➣➣➣ featured
 
-<!-- アイコン：order, 注文! -->
+<!-- アイコン：order, 商品! -->
 
 
 <!-- アイコン：heart, 案内 -->
