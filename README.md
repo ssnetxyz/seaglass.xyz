@@ -9,10 +9,10 @@ pageClass: top
 
 <div class="banner"><div class="container"><div class="columns"><div class="column is-3">
    
-![これはオリジナルフレームキットの１こです！](./sakuseimihon-1.jpg)
+![これはオリジナルフレームキットの１個です！](./sakuseimihon-1.jpg)
 
 </div><div class="column">
-シーグラス・ビーチグラス販売専門店のSSネット。<br>
+シーグラス販売専門店SSネット株式会社<br>
 当店のシーグラスは奄美大島で採取された天然の宝もの。
 </div></div>
 </div></div>
@@ -41,10 +41,9 @@ pageClass: top
 
   鹿児島県奄美市名瀬大熊728番地
   
-  SSネット株式会社
+  シーグラス販売専門店SSネット株式会社
   
-  シーグラス・ビーチグラス販売専門店
-  
+   
   ☎　0997-69-3731
   
   　　080-8843-2138
