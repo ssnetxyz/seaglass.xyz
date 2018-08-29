@@ -27,6 +27,7 @@ pageClass: top
 
 ➣➣➣
 
+<instagram-feed />
 
 <div class="extra"><div class="container">
 
