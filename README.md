@@ -12,20 +12,7 @@ pageClass: top
 ただ今！送料無料キャンペーン中！
 </div></div>
 
-➣➣➣ featured
-
-<!-- アイコン：order, 商品! -->
-
-
-<!-- アイコン：heart, 案内 -->
-
-
-<!-- アイコン：info, 作成見本 -->
-
-
-<!-- アイコン：ssnet, SSネット -->
-
-➣➣➣
+<main-nav />
 
 <instagram-feed />
 
