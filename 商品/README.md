@@ -2,7 +2,7 @@
 title: 商品
 description: 1個からの注文も受け付けています。２個セットより3個セットはお得になります。4個セットはさらにお得です。なんと10個以上お買い上げだとさらにされに割引いたします。ご利用くださいね。
 lang: ja
-layout: product-page
+layout: product-list
 
 ---
 
