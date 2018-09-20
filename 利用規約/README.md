@@ -2,7 +2,7 @@
 title: 利用規約
 description: 利用規約はなに？
 lang: ja
-layout: terms
+layout: page
 ---
 
 # 利用規約

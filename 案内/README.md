@@ -3,15 +3,15 @@ title: 案内
 description: 鹿児島県奄美大島の綺麗な海岸で採取したシーグラスや貝殻を使用して、世界にひとつだけのオリジナルフォットフレームを作ってみませんか？お土産や子供の自由研究にも簡単に作れるので最適です。天然のシーグラスをお部屋に飾って気分リフレッシュしましょう！
 lang: ja
 pageClass: has-image-blocks
-images:
- - src: /images/sakuseimihon-1.jpg
-   alt: オリジナルフレームキット
- - src: /images/sakuseimihon-2.jpg
-   alt: 商品の中身
- - src: /images/sakuseimihon-3.jpg
-   alt: 見本1
- - src: /images/sakuseimihon-4.jpg
-   alt: 見本2
+# images:
+#  - src: /images/sakuseimihon-1.jpg
+#    alt: オリジナルフレームキット
+#  - src: /images/sakuseimihon-2.jpg
+#    alt: 商品の中身
+#  - src: /images/sakuseimihon-3.jpg
+#    alt: 見本1
+#  - src: /images/sakuseimihon-4.jpg
+#    alt: 見本2
 ---
 
 ## シーグラス 案内

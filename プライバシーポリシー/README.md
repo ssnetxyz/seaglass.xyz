@@ -2,7 +2,7 @@
 title: プライバシーポリシー
 description: プライバシーポリシーとは？（ＳＥＯ）
 lang: ja
-layout: privacy-policy
+layout: page
 ---
 
 # プライバシーポリシー
